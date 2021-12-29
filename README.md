@@ -8,7 +8,7 @@ DynamicTraffic is a resource for FiveM by Albo1125 that provides variable traffi
 ```text
 ensure DynamicTraffic
 ```
-4. Optionally, customise the DensityMultiplier for the hour of the day intervals in `dynamictraffic.lua`. Ranges from 0.0 - 1.0.
+4. Optionally, customise the DensityMultiplier for the hour of the day intervals in `DynamicTraffic.lua`. Ranges from 0.0 - 1.0.
 
 ## Improvements & Licencing
 Please view the license. Improvements and new feature additions are very welcome, please feel free to create a pull request. As a guideline, please do not release separate versions with minor modifications, but contribute to this repository directly. However, if you really do wish to release modified versions of my work, proper credit is always required and you should always link back to this original source and respect the licence.
