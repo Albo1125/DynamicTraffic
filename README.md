@@ -1,5 +1,5 @@
 # DynamicTraffic
-DynamicTraffic is a resource for FiveM by Albo1125 that provides variable traffic density functionality.
+DynamicTraffic is a resource for FiveM by Albo1125 that provides variable traffic density functionality. It is available at [https://github.com/Albo1125/DynamicTraffic](https://github.com/Albo1125/DynamicTraffic)
 
 ## Installation & Usage
 1. Download the latest release.
